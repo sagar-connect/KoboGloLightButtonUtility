@@ -5,7 +5,7 @@ I have made a small utility app for Kobo Glo. Named it Kobo Glo Utilility :P
 The intention of making this app is to make use of (otherwise useless) light button on Kobo-Glo within Android and to get rid of ghosts/artifacts while reading.
 
 Download Link:
-https://www.dropbox.com/s/rovcrfcna9...ility.apk?dl=0
+https://www.dropbox.com/s/rovcrfcna937dwq/Kobo%20Glo%20Utility.apk?dl=0
 
 With this app you can:
 1. Configure Light button as a manual SCREEN REFRESH button.
